@@ -1,5 +1,3 @@
-In SonarAnalysis, use the below code..
-```sh
-sonar.projectKey=Test 
+sonar.projectKey=hiring-app
 sonar.sources=.
-```
+sonar.sourceEncoding=UTF-8
